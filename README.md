@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 This is Harish's <a href="https://github.com/Harishnh118"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius:20px"> </a>
 
-<!--
-**Harishnh118/Harishnh118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <h3>To Know About Me</h3>
+📖 Currently pursuing Food Tech in Bannari Amman Institute of Technology <br>
+♟   An active chess player, participang in many tournaments<br>
+🚀 Lot more interested in Astrological Science
 
-Here are some ideas to get you started:
+<h3>About my Interests</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on web development using HTML/CSS/JS <br>
+🌱 I’m currently learning Java<br>
+👯 I’m looking to collaborate on Open source projects based on HTML/CSS <br>
+🤔 I’m looking for help with Java <br>
+⚡ Fun fact: Technology attracts a food tech student to learn more <br>
+
+<h3>Social Profile<h3>
+
+ ### <a href="https://www.linkedin.com/in/harish-n-4bb424210/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:20px"></a> <a href="https://www.codechef.com/users/harish_118"> <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" style="border-radius:20px"> </a>
+
+<h3>My Tech Stack</h3>
+
+### <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius:20px"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border-radius:20px"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="border-radius:20px"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius:20px"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:20px"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="border-radius:20px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius:20px"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="border-radius:20px"> 
