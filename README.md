@@ -1,14 +1,15 @@
 ### Hi there 👋 This is Harish's <a href="https://github.com/Harishnh118"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius:20px"> </a>
 
 ### <h3>To Know About Me</h3>
-📖 Currently pursuing Food Tech in Bannari Amman Institute of Technology <br>
-♟   An active chess player, participang in many tournaments<br>
+👨‍🎓  Graduate of Food Technology department in Bannari Amman Institute of Technology <br>
+📖  Strong foundation in Coding and Food processing <br>
+♟   An active chess player, participang in many tournaments <br>
 🚀 Lot more interested in Astrological Science
 
 <h3>About my Interests</h3>
 
-🔭 I’m currently working on web development using HTML/CSS/JS <br>
-🌱 I’m currently learning Java<br>
+🔭 Studied Front End Web Development using HTML/CSS/JS <br>
+🌱 Learnt programming languages like C, C++, Java and concepts including OOPS, DSA, DBMS<br>
 👯 I’m looking to collaborate on Open source projects based on HTML/CSS <br>
 🤔 I’m looking for help with Java <br>
 ⚡ Fun fact: Technology attracts a food tech student to learn more <br>
