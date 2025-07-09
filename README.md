@@ -10,7 +10,7 @@
 
 🔭 Studied Front End Web Development using HTML/CSS/JS <br>
 🌱 Learnt programming languages like C, C++, Java and concepts including OOPS, DSA, DBMS<br>
-👯 I’m looking to collaborate on Open source projects based on HTML/CSS <br>
+👨‍💻 I’m looking to collaborate on Open source projects based on HTML/CSS <br>
 🤔 I’m looking for help with Java <br>
 ⚡ Fun fact: Technology attracts a food tech student to learn more <br>
 
