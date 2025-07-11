@@ -4,7 +4,7 @@
 👨‍🎓  Graduate of Food Technology department in Bannari Amman Institute of Technology <br>
 📖  Strong foundation in Coding and Food processing <br>
 ♟   An active chess player, participang in many tournaments <br>
-🚀 Lot more interested in Astrological Science
+🚀 Lot more interested in Science
 
 <h3>About my Interests</h3>
 
